@@ -1,0 +1,9 @@
+{
+  "name": "feetech-for-scratch",
+  "version": "0.1.0",
+  "description": "TurboWarp extension that drives an SO-100 robot arm (Feetech STS3215 servos) over Web Serial",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
